@@ -1,7 +1,9 @@
 .elementor-29 .elementor-element.elementor-element-874c520 > .elementor-element-populated {margin: 0px 0px -15px 0px;}
-.elementor-29 .elementor-element.elementor-element-a54b4bc .hfe-site-logo-container, .elementor-29 .elementor-element.elementor-element-a54b4bc .hfe-caption-width figcaption {text-align: center;}
+.elementor-29 .elementor-element.elementor-element-a54b4bc .hfe-site-logo-container, .elementor-29 .elementor-element.elementor-element-a54b4bc .hfe-caption-width figcaption {text-align: left;}
 .elementor-29 .elementor-element.elementor-element-a54b4bc .hfe-site-logo-container .hfe-site-logo-img {border-style: none;}
 .elementor-29 .elementor-element.elementor-element-a54b4bc .widget-image-caption {margin-top: 0px;margin-bottom: 0px;}
+.elementor-29 .elementor-element.elementor-element-a54b4bc > .elementor-widget-container {margin: 0px 0px 0px 0px;}
+.elementor-29 .elementor-element.elementor-element-19525ae {margin-top: -50px;margin-bottom: 0px;}
 .elementor-29 .elementor-element.elementor-element-8c29f8c .hfe-nav-menu__toggle {margin: 0 auto;}
 .elementor-29 .elementor-element.elementor-element-8c29f8c .menu-item a.hfe-menu-item {padding-left: 15px;padding-right: 15px;}
 .elementor-29 .elementor-element.elementor-element-8c29f8c .menu-item a.hfe-sub-menu-item {padding-left: calc(15px + 20px);padding-right: 15px;}
@@ -15,5 +17,5 @@
 .elementor-29 .elementor-element.elementor-element-8c29f8c ul.sub-menu {width: 220px;}
 .elementor-29 .elementor-element.elementor-element-8c29f8c .sub-menu a.hfe-sub-menu-item, .elementor-29 .elementor-element.elementor-element-8c29f8c nav.hfe-dropdown li a.hfe-menu-item, .elementor-29 .elementor-element.elementor-element-8c29f8c nav.hfe-dropdown li a.hfe-sub-menu-item, .elementor-29 .elementor-element.elementor-element-8c29f8c nav.hfe-dropdown-expandible li a.hfe-menu-item, .elementor-29 .elementor-element.elementor-element-8c29f8c nav.hfe-dropdown-expandible li a.hfe-sub-menu-item {padding-top: 15px;padding-bottom: 15px;}
 .elementor-29 .elementor-element.elementor-element-8c29f8c .sub-menu li.menu-item:not(:last-child), .elementor-29 .elementor-element.elementor-element-8c29f8c nav.hfe-dropdown li.menu-item:not(:last-child), .elementor-29 .elementor-element.elementor-element-8c29f8c nav.hfe-dropdown-expandible li.menu-item:not(:last-child) {border-bottom-style: solid;border-bottom-color: #c4c4c4;border-bottom-width: 1px;}
-.elementor-29 .elementor-element.elementor-element-19525ae {margin-top: -40px;margin-bottom: 0px;}
+.elementor-29 .elementor-element.elementor-element-8c29f8c > .elementor-widget-container {margin: -30px 0px 0px 0px;}
 .elementor-29 .elementor-element.elementor-element-b2f46fc {margin-top: 0px;margin-bottom: 0px;}
