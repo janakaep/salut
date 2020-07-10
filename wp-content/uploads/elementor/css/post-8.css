@@ -21,8 +21,9 @@
 .elementor-8 .elementor-element.elementor-element-011c89e .elementor-heading-title {color: #fff;}
 .elementor-8 .elementor-element.elementor-element-56f53fd .elementor-heading-title {color: #fff;}
 .elementor-8 .elementor-element.elementor-element-30cac7a .elementor-heading-title {color: #fff;}
-.elementor-8 .elementor-element.elementor-element-bd70209 > .elementor-background-overlay {background-color: #4f4833;opacity: .5;}
-.elementor-8 .elementor-element.elementor-element-bd70209 {margin-top: 8px;margin-bottom: 6px;padding: 5px 0px 2px 5px;}
+.elementor-8 .elementor-element.elementor-element-bd70209:not(.elementor-motion-effects-element-type-background), .elementor-8 .elementor-element.elementor-element-bd70209 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #004f88;}
+.elementor-8 .elementor-element.elementor-element-bd70209 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 8px;margin-bottom: 6px;padding: 5px 0px 2px 5px;}
+.elementor-8 .elementor-element.elementor-element-bd70209 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-8 .elementor-element.elementor-element-d806936 {text-align: left;}
 .elementor-8 .elementor-element.elementor-element-74351d4 {text-align: left;}
 .elementor-8 .elementor-element.elementor-element-74351d4 > .elementor-widget-container {margin: -16px 0px 0px 0px;padding: 0px 0px 0px 0px;}
