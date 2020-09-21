@@ -17,7 +17,7 @@
 .jet-animated-box .jet-animated-box__title {color: white;font-size: 23px;text-align: center;margin: 0 0 10px 0;}
 .jet-animated-box .jet-animated-box__subtitle {color: white;font-size: 18px;text-align: center;margin: 0 0 10px 0;}
 .jet-animated-box .jet-animated-box__description {color: white;font-size: 13px;text-align: center;margin: 0 0 10px 0;}
-.jet-animated-box .jet-animated-box__button {-webkit-align-self: center;-ms-flex-item-align: center;align-self: center;}
+.jet-animated-box .jet-animated-box__button {-ms-flex-item-align: center;align-self: center;}
 .jet-animated-box .jet-animated-box__button .jet-animated-box__button-text {margin: 0 3px;}
 .jet-animated-box .jet-animated-box__button .jet-animated-box__button-icon {color: white;}
 .jet-animated-box.jet-box-peel-effect, .jet-animated-box.jet-box-scratch-effect canvas {cursor: -webkit-grab;cursor: grab;}
@@ -98,8 +98,8 @@
 .jet-image-comparison .jx-label {margin: 5px;background-color: #54595f;}
 .jet-image-comparison .jx-controller {width: 40px;height: 40px;background-color: #6ec1e4;-webkit-transition: all .3s cubic-bezier(.5,.12,.46,.88);-o-transition: all .3s cubic-bezier(.5,.12,.46,.88);transition: all .3s cubic-bezier(.5,.12,.46,.88);}
 .jet-image-comparison .jx-controller i {color: white;font-size: 20px;margin: 5px;}
-.jet-image-comparison .jx-image.jx-left {-webkit-box-pack: start;-webkit-justify-content: flex-start;-ms-flex-pack: start;justify-content: flex-start;}
-.jet-image-comparison .jx-image.jx-right {-webkit-box-pack: end;-webkit-justify-content: flex-end;-ms-flex-pack: end;justify-content: flex-end;}
+.jet-image-comparison .jx-image.jx-left {-webkit-box-pack: start;-ms-flex-pack: start;justify-content: flex-start;}
+.jet-image-comparison .jx-image.jx-right {-webkit-box-pack: end;-ms-flex-pack: end;justify-content: flex-end;}
 .jet-image-comparison .jet-arrow {width: 36px;height: 36px;-webkit-border-radius: 18px;border-radius: 18px;margin-top: -18px;color: #fff;background-color: #6ec1e4;font-size: 23px;}
 .jet-image-comparison .jet-arrow.prev-arrow {left: 20px;}
 .jet-image-comparison .jet-arrow.next-arrow {right: 20px;}
@@ -148,24 +148,24 @@
 .jet-progress-bar__wrapper {position: relative;height: 30px;background-color: #eee;-webkit-border-radius: 2px;border-radius: 2px;}
 .jet-progress-bar__status-bar {height: 100%;background-color: #6ec1e4;-webkit-border-radius: 2px;border-radius: 2px;}
 .jet-progress-bar__title-icon {margin-right: 5px;}
-.jet-progress-bar-type-1 .jet-progress-bar__title {-webkit-align-self: flex-start;-ms-flex-item-align: start;align-self: flex-start;}
+.jet-progress-bar-type-1 .jet-progress-bar__title {-ms-flex-item-align: start;align-self: flex-start;}
 .jet-progress-bar-type-1 .jet-progress-bar__title-text {color: #54595f;}
 .jet-progress-bar-type-1 .jet-progress-bar__title-icon {color: #54595f;}
-.jet-progress-bar-type-1 .jet-progress-bar__percent {margin: 0 10px;color: white;-webkit-align-self: flex-end;-ms-flex-item-align: end;align-self: flex-end;}
-.jet-progress-bar-type-2 .jet-progress-bar__title {-webkit-align-self: center;-ms-flex-item-align: center;align-self: center;margin-top: 5px;}
-.jet-progress-bar-type-2 .jet-progress-bar__percent {-webkit-align-self: center;-ms-flex-item-align: center;align-self: center;margin-bottom: 5px;}
+.jet-progress-bar-type-1 .jet-progress-bar__percent {margin: 0 10px;color: white;-ms-flex-item-align: end;align-self: flex-end;}
+.jet-progress-bar-type-2 .jet-progress-bar__title {-ms-flex-item-align: center;align-self: center;margin-top: 5px;}
+.jet-progress-bar-type-2 .jet-progress-bar__percent {-ms-flex-item-align: center;align-self: center;margin-bottom: 5px;}
 .jet-progress-bar-type-3 .jet-progress-bar__percent {width: 40px;margin-right: -20px;padding: 5px 0;color: white;background-color: #6ec1e4;-webkit-border-radius: 2px;border-radius: 2px;}
 .jet-progress-bar-type-3 .jet-progress-bar__wrapper {height: 10px;}
 .jet-progress-bar-type-4 .jet-progress-bar__title {margin-right: 20px;}
 .jet-progress-bar-type-4 .jet-progress-bar__percent {margin-left: 20px;}
 .jet-progress-bar-type-4 .jet-progress-bar__wrapper {height: 10px;}
-.jet-progress-bar-type-5 .jet-progress-bar__title {margin-bottom: 5px;-webkit-align-self: flex-start;-ms-flex-item-align: start;align-self: flex-start;}
+.jet-progress-bar-type-5 .jet-progress-bar__title {margin-bottom: 5px;-ms-flex-item-align: start;align-self: flex-start;}
 .jet-progress-bar-type-5 .jet-progress-bar__percent {margin-left: 10px;}
-.jet-progress-bar-type-6 .jet-progress-bar__title {-webkit-align-self: flex-start;-ms-flex-item-align: start;align-self: flex-start;}
+.jet-progress-bar-type-6 .jet-progress-bar__title {-ms-flex-item-align: start;align-self: flex-start;}
 .jet-progress-bar-type-6 .jet-progress-bar__wrapper {height: 60px;}
 .jet-progress-bar-type-6 .jet-progress-bar__status {margin-left: 10px;}
 .jet-progress-bar-type-6 .jet-progress-bar__percent {font-size: 25px;}
-.jet-progress-bar-type-7 .jet-progress-bar__wrapper {width: 50px;height: 300px;-webkit-box-pack: end;-webkit-justify-content: flex-end;-ms-flex-pack: end;justify-content: flex-end;}
+.jet-progress-bar-type-7 .jet-progress-bar__wrapper {width: 50px;height: 300px;-webkit-box-pack: end;-ms-flex-pack: end;justify-content: flex-end;}
 .jet-progress-bar-type-7 .jet-progress-bar__percent {margin-bottom: 10px;}
 .jet-portfolio .jet-portfolio__filter-list {margin: 0 0 30px 0;}
 .jet-portfolio .jet-portfolio__filter-item {padding: 0 10px;margin: 0 5px;color: #54595f;}
@@ -185,9 +185,9 @@
 .jet-portfolio.preset-type-2 .jet-portfolio__category {color: #54595f;}
 .jet-portfolio.preset-type-2 .jet-portfolio__desc {color: #54595f;}
 .jet-portfolio.preset-type-2 .jet-portfolio__cover {background-color: rgba(84,89,95,.6);}
-.jet-portfolio.preset-type-2 .jet-portfolio__cover i {font-size: 25px;color: #6ec1e4;}
+.jet-portfolio.preset-type-2 .jet-portfolio__cover .jet-elements-icon {font-size: 25px;color: #6ec1e4;}
 .jet-portfolio.preset-type-3 .jet-portfolio__cover {background-color: rgba(84,89,95,.6);}
-.jet-portfolio.preset-type-3 .jet-portfolio__cover i {font-size: 25px;color: #6ec1e4;}
+.jet-portfolio.preset-type-3 .jet-portfolio__cover .jet-elements-icon {font-size: 25px;color: #6ec1e4;}
 .jet-portfolio.preset-type-4 .jet-portfolio__title {color: white;}
 .jet-portfolio.preset-type-4 .jet-portfolio__category {color: white;}
 .jet-portfolio.preset-type-4 .jet-portfolio__desc {color: white;}
