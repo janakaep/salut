@@ -15,3 +15,4 @@
 .customize-control-ast-slider .ast-slider-reset:hover, .customize-control-ast-slider .ast-slider-reset:focus {color: red;}
 .astra_range_value input.ast-range-value-input {width: 50px;height: 22px;font-size: 12px;padding: 3px;}
 .astra_range_value .ast-range-unit {margin-right: 5px;}
+.ast-field-settings-modal .customize-control-ast-slider .ast-slider-reset {left: -18px;top: -32px;}

@@ -7,8 +7,8 @@
 .customize-control-ast-responsive .input-wrapper {overflow: hidden;}
 .customize-control-ast-responsive .input-wrapper input {display: none;width: 82%;float: none;}
 .customize-control-ast-responsive .input-wrapper input.active {display: block;}
-.customize-control-ast-responsive .input-wrapper .ast-responsive-select {width: 50px;margin: 0;display: none;padding: .1em;margin-left: 2px;float: none;}
-.customize-control-ast-responsive .input-wrapper .ast-responsive-input.active + .ast-responsive-select {display: block;width: 17%;float: none;}
+.customize-control-ast-responsive .input-wrapper .ast-responsive-select {width: 50px;margin: 0;margin-left: 2px;padding: 0 24px 0 8px;font-size: 13px;text-transform: uppercase;float: none;display: none;}
+.customize-control-ast-responsive .input-wrapper .ast-responsive-input.active + .ast-responsive-select {display: block;width: 25%;float: none;}
 .customize-control-ast-responsive .input-wrapper .ast-non-reponsive.ast-responsive-input {display: inline-block;}
 .customize-control-ast-responsive .input-wrapper .ast-non-reponsive.ast-responsive-input.active {display: inline-block;}
 .customize-control-ast-responsive .input-wrapper .ast-non-reponsive.ast-responsive-select {display: inline-block;}
