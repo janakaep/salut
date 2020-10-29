@@ -61,12 +61,17 @@
 	.elementor-8 .elementor-element.elementor-element-aeb1ce4 .jet-button__state-normal .jet-button__label {text-align: center;}
 	.elementor-8 .elementor-element.elementor-element-aeb1ce4 .jet-button__state-hover .jet-button__label {text-align: center;}
 	.elementor-8 .elementor-element.elementor-element-c864c95 {margin-top: 20px;margin-bottom: 20px;}}
-@media (max-width:767px) {.elementor-8 .elementor-element.elementor-element-0fe5757 > .elementor-element-populated {margin: 50px 0px 0px 0px;}
-	.elementor-8 .elementor-element.elementor-element-6d74e7d .jet-button__instance {width: 300px;}
+@media (max-width:767px) {.elementor-8 .elementor-element.elementor-element-0fe5757 > .elementor-element-populated {margin: 0px 0px 0px 0px;}
+	.elementor-8 .elementor-element.elementor-element-f5c42ea > .elementor-widget-container {margin: 0px 0px 0px 0px;}
+	.elementor-8 .elementor-element.elementor-element-120f56e > .elementor-widget-container {margin: 0px 0px 0px 2px;padding: 12px 12px 12px 12px;}
+	.elementor-8 .elementor-element.elementor-element-6d74e7d .jet-button__instance {width: 350px;height: 50px;}
+	.elementor-8 .elementor-element.elementor-element-6d74e7d .jet-button__container {justify-content: center;}
+	.elementor-8 .elementor-element.elementor-element-6d74e7d > .elementor-widget-container {margin: 5px 0px 0px 0px;padding: 0px 0px 0px 0px;}
 	.elementor-8 .elementor-element.elementor-element-1ca6072 .jet-button__instance {height: 50px;}
 	.elementor-8 .elementor-element.elementor-element-1ca6072 .jet-button__container {justify-content: center;}
 	.elementor-8 .elementor-element.elementor-element-1ca6072 .jet-button__state-normal .jet-button__label {text-align: center;}
 	.elementor-8 .elementor-element.elementor-element-1ca6072 .jet-button__state-hover .jet-button__label {text-align: center;}
-	.elementor-8 .elementor-element.elementor-element-1ca6072 > .elementor-widget-container {margin: 0px 0px 0px 0px;}}
+	.elementor-8 .elementor-element.elementor-element-1ca6072 > .elementor-widget-container {margin: 0px 0px 0px 0px;}
+	.elementor-8 .elementor-element.elementor-element-c864c95 {margin-top: 0px;margin-bottom: 0px;}}
 @media (min-width:768px) {.elementor-8 .elementor-element.elementor-element-0fe5757 {width: 60%;}
 	.elementor-8 .elementor-element.elementor-element-6b3e287 {width: 39.333%;}}
