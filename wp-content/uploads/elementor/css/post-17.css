@@ -100,6 +100,19 @@
 .elementor-17 .elementor-element.elementor-element-fb5712c .elementor-text-editor {text-align: left;}
 .elementor-17 .elementor-element.elementor-element-fb5712c > .elementor-widget-container {padding: 20px 20px 0px 20px;}
 .elementor-17 .elementor-element.elementor-element-b3a7c19 {margin-top: 5px;margin-bottom: 0px;}
+@media (max-width:767px) {.elementor-17 .elementor-element.elementor-element-bc0f656 > .elementor-element-populated {border-width: 5px 5px 5px 5px;}
+	.elementor-17 .elementor-element.elementor-element-2086ce1 > .elementor-element-populated {border-width: 5px 5px 5px 5px;}
+	.elementor-17 .elementor-element.elementor-element-47742d6 > .elementor-element-populated {border-width: 5px 5px 5px 5px;}
+	.elementor-17 .elementor-element.elementor-element-789647e > .elementor-element-populated {border-width: 5px 5px 5px 5px;}
+	.elementor-17 .elementor-element.elementor-element-585340f > .elementor-element-populated {border-width: 5px 5px 5px 5px;}
+	.elementor-17 .elementor-element.elementor-element-1091903 > .elementor-element-populated {border-width: 5px 5px 5px 5px;}
+	.elementor-17 .elementor-element.elementor-element-3c48499 > .elementor-element-populated {border-width: 5px 5px 5px 5px;}
+	.elementor-17 .elementor-element.elementor-element-45777bb > .elementor-element-populated {border-width: 5px 5px 5px 5px;}
+	.elementor-17 .elementor-element.elementor-element-848a3fe > .elementor-element-populated {border-width: 5px 5px 5px 5px;}
+	.elementor-17 .elementor-element.elementor-element-8790e91 > .elementor-element-populated {border-width: 5px 5px 5px 5px;}
+	.elementor-17 .elementor-element.elementor-element-e225556 > .elementor-element-populated {border-width: 5px 5px 5px 5px;}
+	.elementor-17 .elementor-element.elementor-element-dc544b8 > .elementor-element-populated {border-width: 5px 5px 5px 5px;}
+	.elementor-17 .elementor-element.elementor-element-1907fa6 > .elementor-element-populated {border-width: 5px 5px 5px 5px;}}
 @media (min-width:768px) {.elementor-17 .elementor-element.elementor-element-86d08c0 {width: 40%;}
 	.elementor-17 .elementor-element.elementor-element-eb4dd06 {width: 60%;}
 	.elementor-17 .elementor-element.elementor-element-8d32673 {width: 40%;}

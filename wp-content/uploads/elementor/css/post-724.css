@@ -31,10 +31,11 @@ body.rtl .elementor-724 .elementor-element.elementor-element-328f878 i:not(:last
 .elementor-724 .elementor-element.elementor-element-328f878 .jet-testimonials__instance .jet-slick-dots li.slick-active span {background-color: var(--e-global-color-97e120b);}
 .elementor-724 .elementor-element.elementor-element-01ef13e {margin-top: 0px;margin-bottom: 0px;padding: 5px 0px 100px 0px;}
 @media (max-width:1024px) {.elementor-724 .elementor-element.elementor-element-19e4abba .elementor-heading-title {font-size: 45px;}
-	.elementor-724 .elementor-element.elementor-element-7da8d75 {padding: 100px 25px 100px 25px;}
+	.elementor-724 .elementor-element.elementor-element-7da8d75 {padding: 20px 0px 10px 0px;}
 	.elementor-724 .elementor-element.elementor-element-877839e .elementor-heading-title {font-size: 45px;}
-	.elementor-724 .elementor-element.elementor-element-01ef13e {padding: 100px 25px 100px 25px;}}
+	.elementor-724 .elementor-element.elementor-element-01ef13e {padding: 10px 0px 100px 0px;}}
 @media (max-width:767px) {.elementor-724 .elementor-element.elementor-element-19e4abba .elementor-heading-title {font-size: 45px;}
-	.elementor-724 .elementor-element.elementor-element-7da8d75 {padding: 50px 20px 50px 20px;}
+	.elementor-724 .elementor-element.elementor-element-19e4abba > .elementor-widget-container {padding: 0px 0px 0px 0px;}
+	.elementor-724 .elementor-element.elementor-element-7da8d75 {padding: 0px 0px 0px 0px;}
 	.elementor-724 .elementor-element.elementor-element-877839e .elementor-heading-title {font-size: 45px;}
-	.elementor-724 .elementor-element.elementor-element-01ef13e {padding: 50px 20px 50px 20px;}}
+	.elementor-724 .elementor-element.elementor-element-01ef13e {padding: 0px 0px 0px 0px;}}
