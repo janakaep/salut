@@ -6,7 +6,7 @@
 .elementor-8 .elementor-element.elementor-element-120f56e .elementor-heading-title {color: #fff;font-family: "Roboto",Sans-serif;font-weight: 600;}
 .elementor-8 .elementor-element.elementor-element-120f56e > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 15px 0px 15px 0px;background-color: #7c3513;border-radius: 2px 2px 2px 2px;}
 .elementor-8 .elementor-element.elementor-element-8db8b7a > .elementor-element-populated {padding: 0px 0px 0px 2px;}
-.elementor-8 .elementor-element.elementor-element-6d74e7d .jet-button__instance {width: 228px;height: 60px;border-radius: 0px 0px 0px 0px;}
+.elementor-8 .elementor-element.elementor-element-6d74e7d .jet-button__instance {width: 250px;height: 60px;border-radius: 0px 0px 0px 0px;}
 .elementor-8 .elementor-element.elementor-element-6d74e7d .jet-button__container {justify-content: center;}
 .elementor-8 .elementor-element.elementor-element-6d74e7d .jet-button__plane-normal {background-color: var(--e-global-color-1894227);}
 .elementor-8 .elementor-element.elementor-element-6d74e7d .jet-button__plane-hover {background-color: var(--e-global-color-97e120b);}
@@ -53,7 +53,8 @@
 .elementor-8 .elementor-element.elementor-element-74351d4 {text-align: left;}
 .elementor-8 .elementor-element.elementor-element-74351d4 > .elementor-widget-container {margin: -16px 0px 0px 0px;padding: 0px 0px 0px 0px;}
 .elementor-8 .elementor-element.elementor-element-c864c95 {margin-top: -50px;margin-bottom: 0px;}
-@media (max-width:1024px) {.elementor-8 .elementor-element.elementor-element-1ca6072 .jet-button__instance {height: 50px;}
+@media (max-width:1024px) {.elementor-8 .elementor-element.elementor-element-6d74e7d .jet-button__instance {width: 250px;height: 55px;}
+	.elementor-8 .elementor-element.elementor-element-1ca6072 .jet-button__instance {height: 50px;}
 	.elementor-8 .elementor-element.elementor-element-1ca6072 .jet-button__state-normal .jet-button__label {text-align: center;}
 	.elementor-8 .elementor-element.elementor-element-1ca6072 .jet-button__state-hover .jet-button__label {text-align: center;}
 	.elementor-8 .elementor-element.elementor-element-aeb1ce4 .jet-button__instance {height: 50px;}
